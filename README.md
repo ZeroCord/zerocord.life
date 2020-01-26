@@ -15,3 +15,5 @@ You can see the list of [contributors](https://github.com/ZeroCord/zerocord.xyz/
 ## LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ZeroCord/zerocord.life/blob/master/LICENSE) file for more details.
+
+- ZeroCord &copy;
